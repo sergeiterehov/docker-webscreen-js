@@ -5,4 +5,4 @@ build-cache:
 	docker build -t webscreen .
 
 run:
-	docker run --rm webscreen
+	docker run --rm -p 8001:8001 webscreen &
