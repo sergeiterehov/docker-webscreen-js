@@ -9,3 +9,5 @@ make run
 
 Install config script ```./scripts/install.sh```.
 Autorun script ```./scripts/run.sh```.
+
+Nodejs project see at [https://github.com/sergeiterehov/webscreen-js]
